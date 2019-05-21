@@ -67,7 +67,6 @@
     "semistandard": "^11.0.0"
   },
   "scripts": {
-    "prepublish": "gulp dist",
     "start": "semistandard --fix"
   },
   "main": "./dist/cjs.js",
